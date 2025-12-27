@@ -5,7 +5,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/UnfoldDataScience/predict_expense_local.git
-   cd prediction_expense_local
+   cd predict_expense_local
    ```
 
 2. **Create a virtual environment**
